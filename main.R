@@ -10,7 +10,7 @@ setwd(work_dir)
 source("functions/generate_data.R")
 
 # Generate dataframe
-df <- generate_random_data(n=50)
+df <- generate_random_data(n=20)
 
 
 # ------------ Mutate

@@ -2,7 +2,7 @@ library(dplyr)
 library(stringi)
 library(lubridate)
 
-set.seed(123) # agar hasil random selalu sama
+set.seed(420) # agar hasil random selalu sama
 
 # Generate random data
 generate_random_data <- function(n) {
